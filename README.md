@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on **web projects**
 
 - 🤝 I’m looking for help with **cloud computing**
-- 
 
 <h3 align="left">Connect with me:</h3>
 
