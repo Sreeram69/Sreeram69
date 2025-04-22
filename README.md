@@ -2,8 +2,9 @@
   <img src="https://i.pinimg.com/originals/b9/ab/f0/b9abf0a0feb3219f56a51448d8ffae2c.gif" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Sreeram</h1>
-<h3 align="center">A passionate and enthusiast cloud developer</h3>
+<img align="right" alt = "coding" width="400" src=https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1728556671~exp=1728557271~hmac=5e507d94c64f981aa15886988a75b6ce38d98d835e1d7f34cff9de6ad1dd6dd3>
 
+<h3 align="center">A passionate and enthusiast cloud developer</h3>
 
 - 🔭 I’m currently pursuing **B.Tech CSE in Lovely Professional University**
 
